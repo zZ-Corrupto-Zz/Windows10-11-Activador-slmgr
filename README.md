@@ -33,8 +33,7 @@ exit
 
 ### ¿Como Funciona? 🔧
 
-Para hacer uso de este script tenemos 4 opciones nada mas ejecutarlo,
-![[Pasted image 20221119111603.png]]
+Para hacer uso de este script tenemos 4 opciones nada mas ejecutarlo.
 
 La primera opción nos lleva a otro menu que contempla las ediciones de windows soportadas para realizar la activación. 
 ```
