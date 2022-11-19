@@ -164,7 +164,7 @@ Acepto peticiones de pull request para mejor el codigo del proyecto,estas petici
 *  *Trabajo Inicial* - [zZ-Corrupto-Zz](https://github.com/zZ-Corrupto-Zz) 
 
 ## Licencia 📄
-Este proyecto está bajo la Licencia #GNU General Public License v3.0 - mira el archivo [LICENSE.md](LICENSE.md) para mas información.
+Este proyecto está bajo la Licencia #GNU General Public License v3.0 - mira el archivo [https://github.com/zZ-Corrupto-Zz/Windows10-11-Activador-slmgr/blob/main/LICENSE](LICENSE) para mas información.
 
 ## Expresiones de Gratitud 🎁
 
