@@ -1,1 +1,0 @@
-# Windows10-11-Activador-slmgr
