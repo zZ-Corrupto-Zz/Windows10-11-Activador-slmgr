@@ -155,7 +155,7 @@ exit
 
 ## Fallos encontrados 🐛
 [Apartado issues](https://github.com/zZ-Corrupto-Zz/Windows10-11-Activador-slmgr/issues) - Reporta fallos en este apartado 
-Si se encuentra un fallo usando este script por favor abre una
+Si se encuentra un fallo usando este script por favor abre una incidencia.
 
 ## Contribuyendo 🖇️
 Acepto peticiones de pull request para mejor el codigo del proyecto,estas peticiones seran revisadas por el desarrollador del proyecto.
